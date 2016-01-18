@@ -9,3 +9,4 @@ class Join(models.Model):
 
     def __str__(self):
         return "Helloworld - This is djagngo 20"
+        print("world is yours")
