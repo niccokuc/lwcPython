@@ -1,3 +1,4 @@
+#This is the models code
 from django.db import models
 
 class Join(models.Model):
