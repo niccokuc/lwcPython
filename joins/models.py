@@ -8,4 +8,4 @@ class Join(models.Model):
     updated = models.DateTimeField(auto_now_add= False, auto_now=True)
 
     def __str__(self):
-        return "Helloworld"
+        return "Helloworld - This is djagngo 20"
